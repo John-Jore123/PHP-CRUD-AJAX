@@ -1,0 +1,1 @@
+{"version":3,"file":"css/app.css","mappings":"AAAA;EACI;EACA;EACA;AACJ,C","sources":["webpack://contact-system/./resources/app.scss"],"sourcesContent":["section {\r\n    height: 100vh;\r\n    display: flex;\r\n    align-items: center;\r\n}"],"names":[],"sourceRoot":""}
